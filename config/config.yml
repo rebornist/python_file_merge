@@ -1,0 +1,4 @@
+config:
+  type: "csv" # 파일 타입
+  path: "C:\\Users\\rdid-ss\\Downloads\\상권별" # 분할된 파일이 있는 폴더 경로
+  output: "test_output" # 병합된 파일이름
